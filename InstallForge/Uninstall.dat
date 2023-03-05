@@ -1,0 +1,200 @@
+{
+  "GeneralInformation": {
+      "InstallationPath"  : "C:\\Program Files (x86)\\solicus\\InstallForge\\",
+      "ApplicationVersion": "1.4.2",
+      "ApplicationName"   : "InstallForge"
+    },
+  "Folders"           : [
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\bin\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\icons\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\images\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\res\\"
+      },
+      {
+        "Path": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\solicus\\InstallForge\\"
+      }
+    ],
+  "Files"             : [
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\Uninstall.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\bin\\guix86.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\bin\\ifbuilderenvx86.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\bin\\ifsetupx86.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\bin\\ifuninstallx86.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\bin\\rcx86.exe"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\bin\\vuebuildx86.dll"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\icons\\ancient.ico"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\icons\\modern.ico"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\images\\Header_1.bmp"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\images\\Header_2.bmp"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\images\\Wizard_1.bmp"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\images\\Wizard_2.bmp"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Deutsch.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\English.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Español.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Français.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Italiano.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Lietuvis.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Magyar.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Nederlands.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Polski.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Português Brasileiro.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Pу́сский.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Română.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Türkçe.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Yкраїнська.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\Ελληνικά.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\عربي.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\lang\\中国人.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\res\\default.ifl"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\res\\manifestDefault.manifest"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\res\\manifestVisualStylesEnabled.manifest"
+      },
+      {
+        "Path": "C:\\Program Files (x86)\\solicus\\InstallForge\\Update.exe"
+      },
+      {
+        "Path": "C:\\Users\\Administrator\\Desktop\\InstallForge.lnk"
+      },
+      {
+        "Path": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\solicus\\InstallForge\\InstallForge.lnk"
+      },
+      {
+        "Path": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\solicus\\InstallForge\\Update.lnk"
+      },
+      {
+        "Path": "C:\\Users\\Administrator\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\solicus\\InstallForge\\Uninstal.lnk"
+      }
+    ],
+  "RegistryValues"    : [
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayIcon",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "UninstallString",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallDate",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "InstallLocation",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "EstimatedSize",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoModify",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "NoRepair",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayName",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "DisplayVersion",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "HelpLink",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      },
+      {
+        "HKey"     : "HKEY_LOCAL_MACHINE",
+        "ValueName": "Publisher",
+        "SubKey"   : "Software\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\InstallForge\\"
+      }
+    ]
+}
